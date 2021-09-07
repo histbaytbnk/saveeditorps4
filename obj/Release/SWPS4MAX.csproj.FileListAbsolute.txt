@@ -1,0 +1,84 @@
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.Be.Windows.Forms.HexBox.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.BrightIdeasSoftware.ColumnSelectionForm.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.CustomControls.CustomVScrollbar.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.Properties.Resources.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.AboutBox1.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.AddCode.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.AdvancedEdit.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.AdvancedEdit2.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.AdvancedSaveUploaderForEncrypt.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.CancelPSNIDs.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.ChooseBackup.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.ChooseProfile.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.CustomScrollbar.Resource.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.DiffResults.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.GameListDownloader.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.Goto.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.Import.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.MainForm.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.MainForm3.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.ManageProfiles.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.Notes.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.Properties.Resources.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.ResignFilesUplaoder.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.ResignInfo.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.ResignMessage.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.Resources.Resources.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.RestoreBackup.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.RSSForm.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.SaveUploadDownloder.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.Search.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.SerialValidateGG.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.ServerSaveDownloader.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.SimpleEdit.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.SimpleSaveUploader.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.SimpleTreeEdit.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\PS4SaveEditor.PS3SaveEditor.UpgradeDownloader.resources
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\SWPS4MAX.csproj.GenerateResource.cache
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\SWPS4MAX.csproj.CoreCompileInputs.cache
+C:\Users\HistBay\Desktop\Nueva carpeta\bin\Release\Save Special.exe
+C:\Users\HistBay\Desktop\Nueva carpeta\bin\Release\Save Special.pdb
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\Save Special.exe
+C:\Users\HistBay\Desktop\Nueva carpeta\obj\Release\Save Special.pdb
+C:\Users\HistBay\Desktop\xd\bin\Release\Save Special.exe
+C:\Users\HistBay\Desktop\xd\bin\Release\Save Special.pdb
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.Be.Windows.Forms.HexBox.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.BrightIdeasSoftware.ColumnSelectionForm.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.CustomControls.CustomVScrollbar.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.Properties.Resources.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.AboutBox1.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.AddCode.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.AdvancedEdit.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.AdvancedEdit2.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.AdvancedSaveUploaderForEncrypt.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.CancelPSNIDs.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.ChooseBackup.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.ChooseProfile.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.CustomScrollbar.Resource.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.DiffResults.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.GameListDownloader.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.Goto.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.Import.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.MainForm.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.MainForm3.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.ManageProfiles.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.Notes.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.Properties.Resources.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.ResignFilesUplaoder.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.ResignInfo.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.ResignMessage.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.Resources.Resources.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.RestoreBackup.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.RSSForm.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.SaveUploadDownloder.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.Search.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.SerialValidateGG.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.ServerSaveDownloader.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.SimpleEdit.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.SimpleSaveUploader.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.SimpleTreeEdit.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\PS4SaveEditor.PS3SaveEditor.UpgradeDownloader.resources
+C:\Users\HistBay\Desktop\xd\obj\Release\SWPS4MAX.csproj.GenerateResource.cache
+C:\Users\HistBay\Desktop\xd\obj\Release\SWPS4MAX.csproj.CoreCompileInputs.cache
+C:\Users\HistBay\Desktop\xd\obj\Release\Save Special.exe
+C:\Users\HistBay\Desktop\xd\obj\Release\Save Special.pdb
