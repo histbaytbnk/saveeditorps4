@@ -1,0 +1,14 @@
+﻿
+// Type: ICSharpCode.SharpZipLib.Zip.FileUpdateMode
+
+
+// Hacked by SystemAce
+
+namespace ICSharpCode.SharpZipLib.Zip
+{
+  public enum FileUpdateMode
+  {
+    Safe,
+    Direct,
+  }
+}
